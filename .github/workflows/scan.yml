@@ -7,7 +7,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'appsecco/dvna:sqlite'
+          default: 'sdi2100157/project_0'
 
 # env:
 #   REGISTRY: ghcr.io
